@@ -4,4 +4,4 @@
 
 | SL No\.  | 🚀 Repository Name          | 👨🏻‍💻 Descryption                                                               | 🔗 Link    |  👩🏻‍💻 Contributed By |
 |----------|-------------------------|---------------------------------------------------------------------------------------|------------| -----------------------|
-| 1\.      | Calculator [GUI]        | A GUI based calculator\.                                                              | [Take Me](https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/Calculator/Calcy.py) | [Avinash Kr. Ranjan](https://github.com/avinashkranjan) |
+| 1\.      | SteamIntegrationKit [UE5]        | steam integration for beginners, and advanced users both, as it has nodes to support both the types!                                                              | [Take Me](https://github.com/betidestudio/SteamIntegrationKit/tree/main) | [Avinash Kr. Ranjan](https://github.com/avinashkranjan) |
